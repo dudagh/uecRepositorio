@@ -1,0 +1,218 @@
+* {
+    font-family: 'Montserrat';
+    margin: 0px;
+    box-sizing: border-box;
+    padding: 0px;
+}
+
+.menu {
+    font-size: 16px;
+    background-color: #CFE2FF;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 4px 40px;
+    list-style: none;
+
+}
+
+.lista {
+    text-decoration: none;
+}
+
+.logo {
+    height: 40px;
+    width: 52px;
+}
+
+h1 {
+    color: #2052A0;
+    text-align: left;
+    font-size: 52px;
+}
+
+h2 {
+    color: #2052A0;
+    font-size: 50px;
+}
+
+.logo2 {
+    height: 50px;
+}
+
+.newsletter {
+    display: flex;
+    background-color: #CFE2FF;
+    text-align: center;
+    padding: 24px;
+    align-items: center;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.newsletter form {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+}
+
+.ultimo {
+    background-color: #814fe0;
+    color: #e3e0e0;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+.rodape {
+    padding: 50px;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    background-color: #2052A0;
+    justify-content: space-between;
+    align-items: center;
+    color: #ffffff;
+}
+
+.rodape2 {
+    width: 95px;
+}
+
+.digite {
+    background-color: #ffffff;
+    color: #404040;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+/*     PRIMEIRA SECAO       */
+.titleone {
+    margin-bottom: 2%;
+}
+
+.sectionone {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 32px;
+}
+
+.imgone {
+    width: 600px;
+    height: 500px;
+}
+
+.secaoum {
+    padding: 80px;
+}
+
+.startnow{
+    margin-top: 16px;
+    padding: 10px 24px 10px 24px;
+    border-radius: 16px;
+    font-size: 16px;
+    background-color: #EE710F;
+    border-color: #e3e0e0;
+    color: #e3e0e0;
+}
+
+/*     SEGUNDA SECAO       */
+.sectiontwo {
+    display: flex;
+    align-items: center;
+    padding-right: 5%;
+    margin-bottom: 32px;
+}
+
+.imgtwo {
+    width: 40%;
+    height: 70vh;
+}
+
+.secaodois {
+    padding-right: 5%;
+}
+
+/*     TERCEIRA SECAO       */
+.sectionthree {
+    display: flex;
+    align-items: center;
+    padding-left: 5%;
+    padding-right: 10%;
+    margin-bottom: 32px;
+}
+
+.imgthree {
+    width: 40%;
+    height: 70vh;
+}
+
+.secaotres {
+    padding-right: 10%;
+}
+
+/*     QUARTA SECAO       */
+.sectionfour {
+    display: flex;
+    align-items: center;
+    padding-left: 50px;
+}
+
+.imgfour {
+    width: 40%;
+    height: 70vh;
+}
+
+.secaoquatro {
+    padding-right: 80px;
+}
+
+/*     QUINTA SECAO       */
+.sectionfive {
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.listwo {
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+.listelements {
+    padding: 20px;
+    text-align: center;
+}
+
+.listelements,
+img {
+    width: 70%;
+    height: 70%;
+}
+
+/*     SEXTA SECAO       */
+.sectionsix {
+    text-align: center;
+    margin-left: 180px;
+    margin-right: 180px;
+    margin-bottom: 32px;
+}
+
+.sectionsix,
+h2 {
+    padding-bottom: 15px;
+}
